@@ -1,0 +1,33 @@
+h1{
+    background-color: blueviolet;
+    text-align: center;
+}
+.img1{
+    background-color: brown;
+}
+.img2{
+    background-color: cadetblue;
+}
+.img3{
+    background-color: crimson;
+}
+ol{
+    background-color:rosybrown ; 
+    text-align: center;
+}
+.spaan{
+    background-color: rgb(23, 151, 180);
+}
+.span2{
+    background-color: blueviolet;
+}
+p{
+    background-color: cadetblue;
+}
+table{
+    background-color: burlywood;
+    text-align: center;
+}
+.th1{
+    background-color: rgb(227, 21, 175);
+}
